@@ -1,0 +1,222 @@
+.container{
+    margin: auto;
+    outline: solid 2px;
+    width: 1299px;
+}
+.first-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.second-flex{
+    display: flex;
+    justify-content: space-between;
+    width: 734;
+    height:330px 
+}
+.third-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.third-flex{
+    display: flex;
+    width: 1500px;
+    height: 400px;
+}
+.third-flex .banner-flex{
+    width: 400px;
+    height: 300px;
+    outline: solid 1px;
+}
+
+.fourth-flex{
+    display: flex;  
+    width: 1600px;
+}
+.fourth-flex .one{
+    width: 350px;
+    height: 300px;
+    outline: solid 2px yellow;
+}
+.fifth-flex{
+   height: 400px;
+   display: flex;
+   justify-content: space-between;
+
+}
+.fifth-flex .fifth{
+    width: 50%;
+    outline: solid 2px red;
+}
+.tvs{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.mani{
+    display: flex;
+    justify-content: space-between;
+}
+.mani .txt{
+    width: 33.33%;
+    outline: solid 2px yellow;
+    height: 300px;
+
+}
+.honda{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.mani{
+    display: flex;
+    justify-content: space-between;
+}
+.mani .txt{
+    width: 50%;
+    outline: solid 2px yellow;
+    height: 300px;
+}
+.xl{
+    display: flex;
+    justify-content: start;
+    height: 150px;
+}
+.mani .txt{
+    width: 33.33%;
+    outline: solid 2px yellow;
+    height: 300px;
+}
+.mani2{
+    height: 100px;
+}
+.scooty{
+     height: 200px;
+     display: flex;
+     justify-content: space-between;
+     
+}
+.scooty .testimonials{
+    width: 33.33%;
+    outline: solid 2px yellow;
+     }
+.bmw{
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}     
+/*.gallery .Gallery{
+    width: 501px;
+    outline: solid 2px yellow;
+    height: 375px;*/
+
+.gallery{
+    display: flex;
+
+}
+.Gallery1,.Gallery2,.Gallery3,.Gallery4{
+    width: 501px;
+    height: 375px;
+    border: solid 1px yellow;
+}
+.Gallery5,.Gallery6,.Gallery7,.Gallery8{
+    width: 501px;
+    height: 375px;
+    border: solid 1px yellow;
+}
+.bmw2{
+    display: flex;
+}
+.train{
+    display: flex;
+    width: 2682px;
+    height: 450px;
+}
+.txt1{
+    width: 413px;
+    height: 419px;
+    outline: solid 2px yellow;
+}
+.txt2{
+    width: 413px;
+    height: 419px;
+    outline: solid 2px yellow;
+    margin-left: 29px;
+}
+.txt3{
+    width: 413px;
+    height: 419px;
+    outline: solid 2px yellow;
+    margin-left: 27px;
+}
+.contacts{
+    height: 994px;
+}
+.contact-us{
+    height: 120px;
+
+}
+.contact-banner{
+    height: 352px;
+}
+.add-login{
+    height: 452px;
+    display: flex;
+}
+.add{
+    height: 452px;
+    background-color: rgb(248, 248, 250);
+    width: 30%;
+}
+.login{
+    height: 452px;
+    background-color: rgb(245, 241, 241);
+    width: 75%;
+}
+.nameemail{
+    padding-top: 54px;
+}
+.EMAIL{
+    margin-left: 20px;
+    width: 414px;
+}
+.NAME{
+    width: 414px;
+}
+.
+.{
+    width: 856px;
+
+}
+.ee{
+    width:856px ;
+    margin-top: 20px;
+
+}
+.eee{
+    width:856px ;
+    height: 196px;
+    margin-top: 20px;
+}
+.footer{
+    display: flex;
+}
+.fourbox{
+    display: flex;
+    
+}
+.fourbox .box{
+    width: 25%;
+    height: 334px;
+    outline: solid 2px;
+}
+.legal{
+    height: 188px;
+    background-color: rgb(255, 250, 250);
+    
+}
+.copy{
+    color: rgb(3, 3, 3);
+    height: 188px;
+}
+
+
