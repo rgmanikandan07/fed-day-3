@@ -1,0 +1,296 @@
+.container{
+    width: 1310px;
+    margin: auto;
+    outline: solid 2px red;
+}
+.firstflex{
+    display: flex;
+    justify-content: space-between;
+}
+.homeflex{
+    display: flex;
+    height: 510px;
+    width: 50%; 
+    outline: solid 2px red;  
+}
+.about{
+    display: flex;
+}
+.aboutflex .image{
+    height: 617px;
+    width: 50%;
+    outline: solid 2px red;
+}
+.fourbox{
+    display: flex;
+    outline: solid 2px red;
+}
+.fourbox .box{
+    padding-left: 70px;
+    height: 100px;
+    width: 25%;
+    outline: solid 2px red;
+}
+.companyflex{  
+    height: 240px;
+}
+.companyflex .firstfour{
+    margin-top: 10px;
+    height: 120px;
+    display: flex;   
+}
+.firstfour .box1{
+    margin-left: 20px;
+    width: 316px;
+    outline: solid 2px red;
+}
+.firstfour .box2{
+    width: 316px;
+    outline: solid 2px red;
+}
+.firstfour .box3{
+    width: 316px;
+    outline: solid 2px red;
+}
+.firstfour .box4{
+    width: 316px;
+    outline: solid 2px red;
+}
+.companyflex .secondfour{
+    margin-bottom: 10px;
+    height: 120px;
+    display: flex;   
+}
+.secondfour .box1{
+    margin-left: 20px;
+    width: 316px;
+    outline: solid 2px red;
+}
+.secondfour .box2{
+    width: 316px;
+    outline: solid 2px red;
+}
+.secondfour .box3{
+    width: 316px;
+    outline: solid 2px red;
+}
+.secondfour .box4{
+    width: 316px;
+    outline: solid 2px red;
+}
+.service{
+    height: 662pxpx;
+    margin-top: 10px;
+}
+.main .service{
+    height: 124px;
+    width: 1293px;
+}
+.sixboxes .firstthree{
+    justify-content: space-between;  
+    display: flex;
+    height: 171px;
+    width: 1277px;
+}
+.firstthree .box1{
+    margin-left: 30px;
+    width: 398px;
+    height: 171px;
+    outline: solid 2px red;
+}
+.firstthree .box2{
+    width: 398px;
+    height: 171px;
+    outline: solid 2px red;
+}
+.firstthree .box3{
+    width: 398px;
+    height: 171px;
+    outline: solid 2px red;
+}
+.sixboxes .lastthree{
+    justify-content: space-between;  
+    display: flex;
+    height: 171px;
+    width: 1277px;
+}
+.lastthree .box1{
+    margin-left: 30px;
+    width: 398px;
+    height: 171px;
+    outline: solid 2px red;
+}
+.lastthree .box2{
+    width: 398px;
+    height: 171px;
+    outline: solid 2px red;
+}
+.lastthree .box3{
+    width: 398px;
+    height: 171px;
+    outline: solid 2px red;
+}
+.portfolio{
+    display: flex;
+    height: 1310px;
+}
+.mani .portfolio{
+    height: 198px;
+}
+.ninebox .firstthree{
+    display: flex;
+    height: 314px;
+    width: 1294px;
+}
+.ninebox .secondthree{
+    justify-content: space-around;
+    margin-bottom: 10px;
+    display: flex;
+    height: 314px; 
+    width: 1294px;
+}
+.ninebox .lastthree{
+    display: flex;
+    height: 314px;
+    width: 1294px;
+}
+.secondthree .box1{
+    height: 312px;
+    width: 1294px;
+    outline: solid 2px red;
+}
+.designer{
+    display: flex;
+    height: 452px;
+    outline: solid 2px red;
+}
+.designerflex .designer{
+    width: 1080px;
+    margin-left: 70px;
+}
+.team{
+    
+    width: 1322px;
+    height: 564px;
+}
+.teamflex{
+    display: flex;
+    width: 1303px;
+    height: 124px;
+}
+.foubox{
+    display: flex;
+    margin-left: 35px;  
+}
+.foubox .box1{
+    width: 304px;
+    height: 401px;
+    outline: solid 2px red;
+}
+.foubox .box2{
+    width: 304px;
+    height: 401px;
+    outline: solid 2px red;
+}
+.foubox .box3{
+    width: 304px;
+    height: 401px;
+    outline: solid 2px red;
+}
+.foubox .box4{
+    width: 304px;
+    height: 401px;
+    outline: solid 2px red;
+}
+.Gallery{
+    width: 1320px;
+}
+.gallery{
+    display: flex;
+    height: 200px;
+    width: 1322px;
+    margin-
+}
+.firstfour{
+    display: flex;
+    height: 224px;
+
+}
+.firstfour .box1{
+    height: 230px;
+    width: 304px;
+    outline: solid 2px red;
+}
+.firstfour .box2{
+    height: 230px;
+    width: 304px;
+    outline: solid 2px red;
+}
+.firstfour .box3{
+    height: 230px;
+    width: 304px;
+    outline: solid 2px red;
+}
+.firstfour .box4{
+    height: 230px;
+    width: 304px;
+    outline: solid 2px red;
+}
+.lastfour{
+    display: flex;
+    height: 235px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 35px;
+}
+.lastfour .box1{
+    height: 230px;
+    width: 304px;
+    margin-left: 17px;
+    outline: solid 2px red;
+}
+.lastfour .box2{
+    height: 230px;
+    width: 304px;
+    margin-left: 17px;
+    outline: solid 2px red;
+}
+.lastfour .box3{
+    height: 230px;
+    width: 304px;
+    margin-left: 17px;
+    outline: solid 2px red;
+}
+.lastfour .box4{
+    height: 230px;
+    width: 304px;
+    margin-left: 17px;
+    outline: solid 2px red;
+}
+.contact{
+    display: flex;
+    height: 200px;
+    width: 1200px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    outline: solid 2px red;
+}
+.mapflex{
+    display: flex;
+    height: 500px;
+    margin-left: 100px;
+    width: 1200px;
+}
+.addressflex{
+    height: 380px;
+    width: 370px;
+    margin-left: 15px;
+    margin-right: 100px;
+    outline: solid 2px red;
+}
+.logginflex{
+    height: 387px;
+    width: 385px;
+    outline: solid 2px red;
+}
