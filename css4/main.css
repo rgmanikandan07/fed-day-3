@@ -8,6 +8,7 @@
     justify-content: space-between;
 }
 .homeflex{
+    margin-bottom: 10px;
     display: flex;
     height: 510px;
     width: 50%; 
@@ -17,12 +18,14 @@
     display: flex;
 }
 .aboutflex .image{
+    margin-bottom: 10px;
     height: 617px;
     width: 50%;
     outline: solid 2px red;
 }
 .fourbox{
     display: flex;
+    margin-bottom: 15px;
     outline: solid 2px red;
 }
 .fourbox .box{
@@ -31,11 +34,15 @@
     width: 25%;
     outline: solid 2px red;
 }
-.companyflex{  
-    height: 240px;
+.company{  
+    margin-inline-start: 30px;
+    justify-content: space-between;
+    display: flex;
+    height: 400px;
+    width: 1305px;
 }
-.companyflex .firstfour{
-    margin-top: 10px;
+.firstfour{
+    margin-top: 20px;
     height: 120px;
     display: flex;   
 }
@@ -56,13 +63,13 @@
     width: 316px;
     outline: solid 2px red;
 }
-.companyflex .secondfour{
-    margin-bottom: 10px;
-    height: 120px;
-    display: flex;   
+.secondfour{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 25px;
+    height: 120px;  
 }
 .secondfour .box1{
-    margin-left: 20px;
     width: 316px;
     outline: solid 2px red;
 }
@@ -80,7 +87,7 @@
 }
 .service{
     height: 662pxpx;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .main .service{
     height: 124px;
@@ -113,6 +120,7 @@
     display: flex;
     height: 171px;
     width: 1277px;
+    margin-bottom: 15px;
 }
 .lastthree .box1{
     margin-left: 30px;
@@ -143,7 +151,8 @@
     width: 1294px;
 }
 .ninebox .secondthree{
-    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 10px;
     display: flex;
     height: 314px; 
@@ -153,13 +162,16 @@
     display: flex;
     height: 314px;
     width: 1294px;
+    margin-bottom: 10px;
 }
 .secondthree .box1{
+    margin-right: 20px;
     height: 312px;
     width: 1294px;
     outline: solid 2px red;
 }
 .designer{
+    margin-bottom: 15px;
     display: flex;
     height: 452px;
     outline: solid 2px red;
@@ -169,7 +181,6 @@
     margin-left: 70px;
 }
 .team{
-    
     width: 1322px;
     height: 564px;
 }
@@ -179,6 +190,7 @@
     height: 124px;
 }
 .foubox{
+    margin-bottom: 10px;
     display: flex;
     margin-left: 35px;  
 }
@@ -272,11 +284,12 @@
     height: 200px;
     width: 1200px;
     margin-left: 50px;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     outline: solid 2px red;
 }
 .mapflex{
+    margin-top: 10px;
     display: flex;
     height: 500px;
     margin-left: 100px;
@@ -290,7 +303,57 @@
     outline: solid 2px red;
 }
 .logginflex{
-    height: 387px;
-    width: 385px;
+    margin-left: 50px;
+    height: 334px;
+    width: 800px;
     outline: solid 2px red;
+}
+.legalflex{
+    display: flex;
+    width: 1295px;
+    height: 240px;
+}
+.boxflex{
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 658px;
+    height: 179px;
+    outline: solid 2px red;
+}
+.fourbox{
+   height: 238px; 
+   display: flex;
+   margin-top: 10px;
+   justify-content: space-between;
+   
+}
+.fourbox .box1{
+    height: 205px;
+    width: 187px;
+    margin-top: 10px;
+    margin-left: 10px;
+    outline: solid 2px red;
+}
+.fourbox .box2{
+    height: 223px;
+    width: 150px;
+    margin-top: 10px;
+    outline: solid 2px red;
+}
+.fourbox .box3{
+    height: 224px;
+    width: 172px;
+    margin-top: 10px;
+    outline: solid 2px red;
+}
+.fourbox .box4{
+    height: 169px;
+    width: 321px;
+    margin-top: 10px;
+    margin-right: 10px;
+    outline: solid 2px red;
+}
+.footerflex{
+    height: 73px;
+    width: 1319px;
 }
