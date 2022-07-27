@@ -7,13 +7,25 @@
     display: flex;
     justify-content: space-between;
 }
-.homeflex{
-    margin-bottom: 10px;
+.homeflex{ 
     display: flex;
-    height: 510px;
-    width: 50%; 
     outline: solid 2px red;  
 }
+.text-content{
+    padding-left: 30px;
+    width: 50%;
+    height: auto;
+}
+.image-content{
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50%;
+    height: auto;
+}
+.image{
+    width: 100%;
+} 
 .about{
     display: flex;
 }
